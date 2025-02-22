@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>07d437af-03e0-4b76-b55e-ddd2ec77cb79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.svg-icon.svg-icon-3x > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Historian']/div/div/ul/li/a/span/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#Historian >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a2396059-fd11-49e5-adf6-87b0ef2b948c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/media/logos/hISTORIAN2 (1).png</value>
+      <webElementGuid>2d9029d7-1f9c-4a82-a8ee-0638d57567de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Historian&quot;)/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/ul[@class=&quot;dashboard-tabs  nav nav-pills nav-danger row row-paddingless m-0 p-0 flex-column flex-sm-row&quot;]/li[@class=&quot;nav-item d-flex col-sm flex-grow-1 flex-shrink-0 mr-3 mb-3 mb-lg-0&quot;]/a[@class=&quot;nav-link NavContent border py-10 d-flex flex-grow-1 rounded flex-column align-items-center active&quot;]/span[@class=&quot;nav-icon py-2 w-auto&quot;]/span[@class=&quot;svg-icon svg-icon-3x&quot;]/img[1]</value>
+      <webElementGuid>042b11b6-0947-4d01-bdbf-73eb2eccb365</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Historian']/div/div/ul/li/a/span/span/img</value>
+      <webElementGuid>44bbc048-f535-4a52-9bf2-16c95d64faeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>01f5c7a7-9b55-4bcb-95d4-d3a18f7f8011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/media/logos/hISTORIAN2 (1).png']</value>
+      <webElementGuid>64038bd3-b260-48f6-a9f7-2d02b122ca28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

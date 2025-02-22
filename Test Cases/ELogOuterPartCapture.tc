@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ELogOuterPartCapture</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e8a4ef3-0d08-4db5-91e6-49776f34cadf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>538cd1ba-f56c-4b5e-b85b-cb84ad5fab17</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98ec2014-53fc-4390-81b6-565221f50e9f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'UF001'</defaultValue>
+      <description></description>
+      <id>538cd1ba-f56c-4b5e-b85b-cb84ad5fab17</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'syn12345'</defaultValue>
+      <description></description>
+      <id>98ec2014-53fc-4390-81b6-565221f50e9f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

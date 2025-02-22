@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Training Need Identification Record</name>
+   <tag></tag>
+   <elementGuidId>8688076d-aff6-4d59-ab20-f8941e85363e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#HRTR > a.menu-link > span.menu-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='HRTR']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Training Need Identification Record&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b9f04830-bfaa-471e-919c-d2ae4d7658cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>e6e6c9e2-bc2d-457a-980b-f24c337e4584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training Need Identification Record</value>
+      <webElementGuid>359579a4-6f6a-4a5a-a442-8d2afcd0a1d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HRTR&quot;)/a[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>b8b7b6ed-6a6d-430f-bf4a-48e57c42f035</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='HRTR']/a/span</value>
+      <webElementGuid>99d56db8-3796-42fd-952e-45e43a649ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Human Resources'])[1]/following::span[2]</value>
+      <webElementGuid>a10c2d56-8e68-4830-b999-b430efddda53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intermediate stock Register'])[1]/following::span[3]</value>
+      <webElementGuid>d6ca467c-77b5-48a1-817d-33f8b2afc978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Induction Training Record'])[1]/preceding::span[2]</value>
+      <webElementGuid>8e1fda19-39d3-4d64-b479-69770e124fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signature Registration Record'])[1]/preceding::span[4]</value>
+      <webElementGuid>f23462fc-cdf9-46e1-bf09-408e383b935c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Training Need Identification Record']/parent::*</value>
+      <webElementGuid>2b813c01-ade8-4a9f-83c6-0f91396caa79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/div/ul/li/a/span</value>
+      <webElementGuid>a4abecd2-4b78-4a51-8f90-92f28d9b6ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Training Need Identification Record' or . = 'Training Need Identification Record')]</value>
+      <webElementGuid>bce192f2-9da8-48b7-bff3-c4c4e3d4b1c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
